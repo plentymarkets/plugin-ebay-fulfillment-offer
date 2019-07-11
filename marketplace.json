@@ -1,0 +1,14 @@
+{
+    "marketplaceName"   : {
+        "de":"ebay Fulfillment & plentymarkets",
+        "en":"ebay Fulfillment & plentymarkets"
+    },
+    "license"           : "AGPL-3.0",
+    "price"             : 599.00,
+    "shortDescription"  : {
+        "de":"Nutze unser plentymarkets Einrichtungsangebot für eBay Fulfillment und verkaufe auf über 40 weiteren Marktplätzen!",
+        "en":"Choose our system setup offer below and sell on more than 40 online marketplaces."
+    },
+    "categories"        : ["3889"],
+    "keywords"          : ["ebay fulfillment, ebay, plentymarkets, service, setup"]
+}

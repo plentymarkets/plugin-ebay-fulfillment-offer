@@ -1,1 +1,3 @@
-# plugin-ebay-fulfillment-offer
+![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
+
+# Ebay-Fulfillment Offer
