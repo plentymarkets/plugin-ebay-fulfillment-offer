@@ -1,26 +1,34 @@
-# The easy way to sell more online: eBay Fulfillment and plentymarkets!
+## Komplettpaket – plentymarkets, eBay und eBay Fulfillment
  
-We are an exclusive eBay Fulfillment launch partner and offer you the easiest way to get started with your own plentymarkets system.
-Choose our system setup offer below and sell on **more than 40 online marketplaces** and your **free plentyShop**.  
+Du bist ganz neu bei plentymarkets oder deine Software ist noch nicht fertig grundeingerichtet, aber du möchtest direkt mit eBay und eBay Fulfillment durchstarten?  
+Dieses Komplettangebot bringt dich ans Ziel!
 
-### The system setup includes the following services:  
-
-##### Basic setup in plentymarkets  
-- Import items from ebay (active listings)
-- Save documents (invoice, delivery notes, cancellations, credit notes)
-- Email login and templates
-- Set up event procedures
+#### Grundeinrichtung plentymarkets  
+- Einweisung Artikelanlage (mit Merkmalen, Attribute)
+- Einweisung CRM und Aufträge
+- Dokumente hinterlegen (Rechnung, Lieferschein, Stornobeleg, Gutschrift)
+- E-Mail Zugangsdaten und Vorlagen
+- Einrichtung von Ereignisaktionen
 - Testing
- 
-##### eBay setup in plentymarkets  
-- eBay setup, return and cancellations (?)
-- eBay Fulfillment setup
 
-##### plentymarkets training via telephone  
-- Items
-- Orders
-- eBay Fulfillment
+#### Einrichtung eBay in plentymarkets  
+- Hinterlegen des eBay (ggf. PayPal) Accounts + Grundeinstellungen der Schnittstelle
+- Einrichtung von Rahmenbedingungen, Verknüpfen von Retourengründen und -status, Einrichtung für Kaufabbrüche
+- Einrichtung von Listings (10 Artikel) oder Artikel-Import von eBay (aktive Angebote)
+- Einrichtung Ereignisaktionen + E-Mails (Auftragsbestätigung, Versandbestätigung, Retoure, Stornierung)
+- Telefonische Schulung Listings pflegen und verwalten
 
-*Expenditure of time: 6 hours (Additional time can be booked as needed).*
+#### Einrichtung eBay Fulfillment in plentymarkets    
+- Bereitstellung der Plugins, Installation und Konfiguration
+- Einrichtung: Lager, Versandprofile, Barcode, Etikettenvorlage, Ereignisaktionen (Automatisierungen)
+- Schulung: Artikelvorbereitung, Inbound, Outbound
+- Technische Begleitung bis zu den ersten Outbounds
 
-### Act now and book this special offer!
+#### Telefonische plentymarkets Schulung zu den Themen    
+- Artikel
+- Aufträge
+- eBay-Fulfillment
+
+*Zeitaufwand 6 Stunden (Mehraufwand nach Absprache).*
+
+### Sichere dir jetzt verbindlich das Einrichtungsangebot!
