@@ -3,8 +3,8 @@
 	"name"              : "EbayFulfillmentComplete",
 	"description"       : "Ebay Fulfillment complete offer for an easy setup.",
 	"marketplaceName"   : {
-		"de":"ebay Fulfillment & plentymarkets",
-		"en":"ebay Fulfillment & plentymarkets"
+		"de":"ebay Fulfillment - Komplettpaket",
+		"en":"ebay Fulfillment - All-inclusive"
 	},
 	"license"           : "AGPL-3.0",
 	"price"             : 599.00,
