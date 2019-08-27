@@ -1,7 +1,7 @@
 {
 	"version"           : "1.0.0",
-	"name"              : "EbayFulfillmentOffer",
-	"description"       : "Ebay Fulfillment offer for an easy setup.",
+	"name"              : "EbayFulfillmentComplete",
+	"description"       : "Ebay Fulfillment complete offer for an easy setup.",
 	"marketplaceName"   : {
 		"de":"ebay Fulfillment & plentymarkets",
 		"en":"ebay Fulfillment & plentymarkets"
@@ -9,7 +9,7 @@
 	"license"           : "AGPL-3.0",
 	"price"             : 599.00,
 	"shortDescription"  : {
-		"de":"Nutze unser plentymarkets Einrichtungsangebot für eBay Fulfillment und verkaufe auf über 40 weiteren Marktplätzen!",
+		"de":"Nutze unser plentymarkets Einrichtungsangebot für eBay Fulfillment und Verkaufe auf über 40 weiteren Marktplätzen!",
 		"en":"Choose our system setup offer below and sell on more than 40 online marketplaces."
 	},
 	"categories"        : ["3889"],
@@ -21,7 +21,7 @@
 	"pluginIcon"        : "icon_plugin_xs.png",
 	"type"              : "service",
 	"webhookUrl"		: "https://www.marketplace.plentymarkets.com/rest/service/plenty/purchase",
-	"namespace"         : "EbayFulfillmentOffer",
-	"serviceProvider"   : "EbayFulfillmentOffer\\Providers\\EbayFulfillmentOfferServiceProvider",
+	"namespace"         : "EbayFulfillmentComplete",
+	"serviceProvider"   : "EbayFulfillmentComplete\\Providers\\EbayFulfillmentCompleteServiceProvider",
 	"javaScriptFiles"   : []
 }
