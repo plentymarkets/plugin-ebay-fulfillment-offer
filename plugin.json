@@ -3,8 +3,8 @@
 	"name"              : "EbayFulfillmentComplete",
 	"description"       : "Ebay Fulfillment complete offer for an easy setup.",
 	"marketplaceName"   : {
-		"de":"ebay Fulfillment - Komplettpaket",
-		"en":"ebay Fulfillment - All-inclusive"
+		"de":"eBay Fulfillment - Komplettpaket",
+		"en":"eBay Fulfillment - All-inclusive"
 	},
 	"license"           : "AGPL-3.0",
 	"price"             : 599.00,
@@ -13,14 +13,14 @@
 		"en":"Choose our system setup offer below and sell on more than 40 online marketplaces."
 	},
 	"categories"        : ["3889"],
-	"keywords"          : ["ebay fulfillment, ebay, plentymarkets, service, setup"],
+	"keywords"          : ["eBay fulfillment, ebay, plentymarkets, service, setup"],
 	"author"            : "plentysystems AG",
 	"email"             : "sales@plentymarkets.com",
 	"phone"             : "+49 561 98 681 100",
 	"authorIcon"        : "icon_author_xs.png",
 	"pluginIcon"        : "icon_plugin_xs.png",
 	"type"              : "service",
-	"webhookUrl"		: "https://www.marketplace.plentymarkets.com/rest/service/plenty/purchase",
+	"webhookUrl"		: "https://www.plentymarkets.eu/rest/service/plenty/purchase",
 	"namespace"         : "EbayFulfillmentComplete",
 	"serviceProvider"   : "EbayFulfillmentComplete\\Providers\\EbayFulfillmentCompleteServiceProvider",
 	"javaScriptFiles"   : []
